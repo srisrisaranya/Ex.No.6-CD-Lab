@@ -50,7 +50,6 @@ return 0;
 
 ## OUTPUT:
 
-K.txt file
 ![image](https://github.com/user-attachments/assets/cbfd2f63-a545-4978-a960-5fdfbf85d9e1)
 
 ![image](https://github.com/user-attachments/assets/0a004907-5c23-45c9-be5c-6ad1e1dc2a1c)
